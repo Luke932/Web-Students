@@ -41,7 +41,7 @@ ruby
 ## Istruzioni per l'Installazione
 1. Clona il repository sul tuo computer:
 
-git clone https://github.com/tuonome/web-students.git
+git clone https://github.com/Luke932/Web-students
 
 markdown
 
@@ -52,4 +52,4 @@ markdown
 Siamo felici di accogliere contributi! Se hai suggerimenti o miglioramenti da proporre, crea una pull request.
 
 ## Contatti
-Per domande o ulteriori informazioni, contattaci a webstudents@example.com.
+Per domande o ulteriori informazioni, contattaci a luca_giacalone@libero.it.
