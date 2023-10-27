@@ -1,6 +1,5 @@
 # Web Students Project
 
-![Web Students Logo](web_students_logo.png)
 
 Benvenuti nel progetto Web Students! Questa è una pagina statica che fornisce informazioni sugli studenti e i corsi relativi alle diverse tecnologie web. Il progetto è stato realizzato utilizzando esclusivamente HTML5, SCSS e Bootstrap.
 
